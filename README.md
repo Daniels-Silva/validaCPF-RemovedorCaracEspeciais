@@ -1,6 +1,6 @@
 # Sistema Validador de CPF e removedor de Caracteres especiais em Python
 
-##Como usar
+## Como usar
 1. Clone este repositório;
 2. Compile o código fonte;
 3. Acesse no Menu a opção desejada;
